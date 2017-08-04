@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Dog Age</string>
+    <string name="instrucciones" > Write down your age and tap the button to calculate your dog age: </string>
+    <string name="editTextHint">Age</string>
+    <string name="mainActivityButtonText">Tap me! </string>
+    <string name="respuesta">If your were a dog, your age would be : </string>
+    <string name="mensaje">Please insert an integer number</string>
+</resources>
